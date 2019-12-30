@@ -1,5 +1,5 @@
 # Irin's BambooLib Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irindan/BambooLib_Testing.git/master?filepath=data_for_container%2Fbamboolib_testing_IDI.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irindan/BambooLib_Testing.git/master)
 
 ## How to use this?
 Click the badge logo above
